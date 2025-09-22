@@ -7,3 +7,5 @@ hekk
 hee
 skdflkdj
 lkdfljd
+some changes in a.txt by user1
+kjdfgkj
